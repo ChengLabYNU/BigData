@@ -1,0 +1,2 @@
+cKW_0.6_final.rda filter=lfs diff=lfs merge=lfs -text
+cKW_1.0_merged.big.rda filter=lfs diff=lfs merge=lfs -text
